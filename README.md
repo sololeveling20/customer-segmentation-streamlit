@@ -55,6 +55,16 @@ E-commerce platforms generate large volumes of transaction data daily. Analyzing
 - **Streamlit**
 
 ---
+Project Structure 
+customer-segmentation-project/
+│
+├── notebook.ipynb
+├── app.py
+├── kmeans_model.pkl
+├── scaler.pkl
+├── top_products_per_cluster.pkl
+├── requirements.txt
+├── README.md
 
 ## 🚀 How to Run the Application Locally
 
